@@ -9,7 +9,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <name>MavenExamples Parent</name>
+  <name>Yade Root</name>
   <url>http://maven.apache.org</url>
 
   <properties>
